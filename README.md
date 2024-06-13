@@ -15,6 +15,12 @@ Together, these methodologies lead to the development of AI solutions that are n
 
 [Microservices Architecture](https://blog.devops.dev/understanding-microservices-architecture-21464077c073)
 
+[Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF/ref=sr_1_1)
+
+[Docker Cheat Sheet: All the Most Essential Commands in One Place + Downloadable PDF](https://www.hostinger.com/tutorials/docker-cheat-sheet)
+
+[60 Essential Linux Commands + Free Cheat Sheet](https://www.hostinger.com/tutorials/linux-commands)
+
 [Fast API](https://fastapi.tiangolo.com/tutorial/)
 
 [SQL Model](https://sqlmodel.tiangolo.com/tutorial/)
